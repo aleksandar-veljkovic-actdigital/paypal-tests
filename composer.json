@@ -1,0 +1,13 @@
+{
+    "name": "diwanee/paypal",
+    "description": "paypal tests",
+    "require": {
+        "paypal/paypal-checkout-sdk": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Aleksandar Veljkovic",
+            "email": "aleksandar.veljkovic@diwanee.com"
+        }
+    ]
+}
